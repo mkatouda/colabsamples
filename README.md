@@ -1,3 +1,3 @@
 # colabsamples
-Sample notebooks of Google Colaboratory (in Japanese)
+Sample notebooks of Google Colaboratory (in Japanese)  
 Google Colaboratoryのサンプルノートブック
